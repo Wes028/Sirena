@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+}
+body{
+    background-color: hsl(61, 96%, 70%);
+}
+img{
+    width: 20%;
+}
+#huno{
+    color: rgb(0, 0, 122);
+}
+#hdos{
+    color: blueviolet;
+}
+#htres{
+    color: blue;
+}
+.peuno, .pedos, .petres,.pecuatro {
+    color: rgb(41, 41, 13);
+}
+.hola{
+    color: aqua;
+}
+.cosa{
+    color: blueviolet;
+}
+
